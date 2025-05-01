@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "xyz.appmaker.lctydu",
+      "sha256_cert_fingerprints": ["FB:2F:5B:CE:6A:52:1D:33:AB:E6:82:08:68:38:5C:1C:4A:58:B7:3F:1B:7D:14:62:27:AA:6A:4D:46:8A:6A:8F"]
+    }
+  }
+]
